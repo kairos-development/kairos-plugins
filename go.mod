@@ -3,7 +3,7 @@ module github.com/kairos-development/kairos-plugins
 go 1.26
 
 require (
-	github.com/kairos-development/kairos-contracts v0.0.0
+	github.com/kairos-development/kairos-contracts v0.0.0-00010101000000-000000000000
 	github.com/stretchr/testify v1.11.1
 )
 
@@ -15,3 +15,4 @@ require (
 )
 
 replace github.com/kairos-development/kairos-contracts => ../kairos-contracts
+
